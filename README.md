@@ -6,7 +6,7 @@ Standard ML library for generating random numbers.
 
 - `lib/github.com/diku-dk/sml-random/set.mlb`:
 
-  - **signature** `RANDOM`
+  - **signature** [`RANDOM`](lib/github.com/diku-dk/sml-random/RANDOM.sig)
   - **structure** `Random`
 
 ## Use of the package
