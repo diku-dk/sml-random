@@ -10,4 +10,4 @@ test:
 .PHONY: clean
 clean:
 	$(MAKE) -C lib/github.com/diku-dk/sml-random clean
-	rm -rf MLB *~
+	rm -rf MLB *~ .*~
