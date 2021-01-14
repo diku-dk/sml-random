@@ -1,4 +1,4 @@
-# sml-random [![Build Status](https://travis-ci.org/diku-dk/sml-random.svg?branch=master)](https://travis-ci.org/diku-dk/sml-random)
+# sml-random [![CI](https://github.com/diku-dk/sml-random/workflows/CI/badge.svg)](https://github.com/diku-dk/sml-random/actions)
 
 Standard ML library for generating random numbers.
 
