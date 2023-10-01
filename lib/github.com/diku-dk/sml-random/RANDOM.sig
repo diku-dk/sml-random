@@ -1,6 +1,4 @@
-(** Random -- Random number generator
-
-*)
+(** Operations for constructing pseudo-random numbers. *)
 
 signature RANDOM = sig
   type generator
@@ -15,8 +13,8 @@ end
 
 (**
 
-Type generator is the abstract type of random number generators,
-producing uniformly distributed pseudo-random numbers.
+[type generator] Abstract type of random number generators, producing
+uniformly distributed pseudo-random numbers.
 
 [newgenseed seed] returns a random number generator with the given seed.
 
